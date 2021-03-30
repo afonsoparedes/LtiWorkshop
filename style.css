@@ -2,10 +2,20 @@ body{
     text-align: center;
     background-image: url(pexels-guillaume-meurice-1591447.jpg);
     background-size: cover;
-    color: black;
+    color: brown;
 }
 
 h1{
     font-size: 60px;
-    padding-top: 20%;
+    padding-top: 10%;
+}
+
+.c_btn{
+    background-color: brown;
+    color:white;
+    border: none;
+}
+
+.c_btn:hover{
+    background-color: gray;
 }
