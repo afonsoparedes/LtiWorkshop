@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url(pexels-guillaume-meurice-1591447.jpg);
+    background-size: cover;
+    color: black;
+}
+
+h1{
+    font-size: 60px;
+    padding-top: 20%;
+}
